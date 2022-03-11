@@ -28,7 +28,7 @@ $ pip install -r REQUIREMENTS.txt
 
 Run project:
 ```
-$ cd warren
+$ cd Stock-Price-Predictor
 $ python runserver.py
 ```
 
